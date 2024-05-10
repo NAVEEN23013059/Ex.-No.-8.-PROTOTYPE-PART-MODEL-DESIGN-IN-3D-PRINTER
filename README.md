@@ -1,6 +1,6 @@
 # Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
+### DATE:10.05.2024 
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -47,8 +47,12 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+
+![image](https://github.com/NAVEEN23013059/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150319555/33973331-c788-4c74-ac6c-ebec53ab9641)
+
+
+### Name:S.NAVEEN
+### Register Number:212223240106
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
